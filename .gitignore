@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Other
+.actions.yaml
+.token.txt
+.user_id.txt
